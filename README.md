@@ -8,3 +8,7 @@ Which projects do you continuously revisit to learn how it's done?
 
 #### Ruby on Rails
 - [Discourse](https://github.com/discourse/discourse)
+
+#### Styleguides
+- [GitHub Styleguide](https://github.com/styleguide) - CSS, JS, Ruby
+- [Google Styleguide](http://code.google.com/p/google-styleguide/) - C++, Obj-C, Java, Python, Shell, HTML/CSS, JS, AngularJS, CLisp, Vimscript
